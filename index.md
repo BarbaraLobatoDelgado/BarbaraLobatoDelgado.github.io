@@ -11,6 +11,13 @@
 [Machine Learning for fraud detection in banking](/sample_page)
 <img src="images/_VvMG_rl.jpeg?raw=false"/>
 
+<div style="position: relative; display: inline-block; text-align: center; color: white; font-size: 20px; font-weight: bold;">
+  <img src="images/_VvMG_rl.jpeg?raw=true" alt="Machine Learning for fraud detection in banking" style="width: 100%; height: auto;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;">
+    [Machine Learning for fraud detection in banking](/sample_page)
+  </div>
+</div>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
