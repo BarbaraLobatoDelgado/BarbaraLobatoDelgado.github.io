@@ -1,3 +1,8 @@
+## About me
+
+... 
+---
+
 ## Portfolio
 
 ---
