@@ -9,7 +9,7 @@
 
 ### Latest projects 
 
-[Detecting fraudulent bank operations](/sample_page)
+[Machine Learning for fraud detection in banking](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
