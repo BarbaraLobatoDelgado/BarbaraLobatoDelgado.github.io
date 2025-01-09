@@ -10,7 +10,7 @@
 ### Latest projects 
 
 [Machine Learning for fraud detection in banking](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/images/_VvMG_rl.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
