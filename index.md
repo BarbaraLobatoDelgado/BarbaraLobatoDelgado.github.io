@@ -10,6 +10,12 @@
 
 [Machine Learning for fraud detection in banking](/sample_page)
 <img src="images/fraud_detection_worker.jpeg?raw=true"/>
+<a href="/sample_page">
+  <figure>
+    <img src="images/fraud_detection_worker.jpeg?raw=true" alt="Machine Learning for fraud detection in banking" style="width:100%; max-width:600px;">
+    <figcaption style="text-align:center; font-weight:bold; margin-top:5px;"> Machine Learning for fraud detection in banking</figcaption>
+  </figure>
+</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
