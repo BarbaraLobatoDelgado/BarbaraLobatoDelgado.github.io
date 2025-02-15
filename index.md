@@ -10,7 +10,7 @@
 
 [Machine Learning for fraud detection in banking](/sample_page)
 
-<a href="sample_page.md" style="text-decoration: none">
+<a href="sample_page.html" style="text-decoration: none">
   <div style="position: relative; display: inline-block; text-align: center;">
     <img src="images/fraud_detection_worker.jpeg?raw=true" alt = "Machine Learning for fraud detection in banking" style="width:100%; max-width:600px; display: block;">
     <div style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); background: rgba(0, 0, 0, 0.6); color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold;">
