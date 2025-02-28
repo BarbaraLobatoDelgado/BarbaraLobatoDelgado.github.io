@@ -1,13 +1,16 @@
 ## About me
+Welcome to my data science portfolio! I am thrilled to have you here. 
 
-... 
 
-## Portfolio
 
 ---
 
+## Portfolio
+Here you can find a portfolio with some of the projects I worked on. 
+
 ### Latest projects 
 
+// First project: ML in fraud detection
 <p>
   <a href="/sample_page.html" style="text-decoration: none;">
     <div style="position: relative; display: inline-block; text-align: center;">
