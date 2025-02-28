@@ -1,10 +1,10 @@
+## About me
+
+... 
+
 ## Portfolio
 
 ---
-
-### About me
-
-... 
 
 ### Latest projects 
 
