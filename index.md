@@ -10,9 +10,9 @@
 
 <p>
   <a href="/sample_page.html" style="text-decoration: none;">
-    <div style="position: relative; display: inline-block; justify-content: center; text-align: center;">
+    <div style="position: relative; display: inline-block; text-align: center;">
       <img src="images/fraud_detection_worker.jpeg?raw=true" alt="Machine Learning for fraud detection in banking" style="width:100%; max-width:600px; display: block;">
-      <div style="position: absolute; text-align: center; color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
         Machine Learning for fraud detection in banking
       </div>
     </div>
