@@ -13,7 +13,7 @@
     transition: transform 0.3s ease;
   }
   .image-title:hover {
-    transform: translate(-50%, -50%) scale(1.1);
+    transform: translate(-50%, -50%) scale(1.1) !important;
   }
 </style>
 
