@@ -1,16 +1,20 @@
 ## About me
-Welcome to my data science portfolio! I am thrilled to have you here. 
+Hello and welcome! 😊 
 
+I’m Bárbara Lobato Delgado, a data scientist with a strong passion for transforming data into meaningful insights. With a background in bioinformatics, statistical analysis and machine learning, I’ve spent the past five years working on biomedical data, from clinical studies to genomics and AI-driven predictive modeling.
 
+My work has taken me from analyzing cancer patient cohorts to developing machine learning models that improve prognosis and risk prediction. I love tackling complex problems — whether it’s making sense of genetic data, optimizing workflows, or leveraging AI to uncover patterns that might otherwise go unnoticed.
+
+What excites me most about data science is its ability to bridge the gap between research and real-world applications. I thrive in interdisciplinary environments where I can collaborate with clinicians, researchers, and engineers to turn raw data into actionable insights. For me, data science isn’t just about algorithms — it’s about solving meaningful problems and driving impact.
 
 ---
 
 ## Portfolio
-Here you can find a portfolio with some of the projects I worked on. 
+Here you can find some of the projects I worked on. 
 
 ### Latest projects 
 
-// First project: ML in fraud detection
+<!-- First project: ML in fraud detection -->
 <p>
   <a href="/sample_page.html" style="text-decoration: none;">
     <div style="position: relative; display: inline-block; text-align: center;">
