@@ -19,15 +19,6 @@
   </a>
 </p>
 
-<p>
-  <style>
-    a div:hover div{
-      font-size: 32px; /* Increase the size of the text on hover */
-    }
-  </style>
-</p>
-
-
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
